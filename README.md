@@ -26,7 +26,7 @@ YTP VocaBuddy 是一個互動式的英文單字學習工具。透過 Google Cola
   新增了四選一的單字測驗功能。系統會隨機從單字庫中抽出題目與選項，並提供答題後的即時顏色回饋（答對顯示綠色，答錯顯示紅色及正確解答）。同時具備動態計分板，可即時追蹤總得分與答題總數。
 
 ## Google Colab 開啟連結
-[![Open In Colab](https://colab.research.google.com/github/diesellin/vocabuddy-group-15/blob/main/VocaBuddy.ipynb)
+[Open In Colab](https://colab.research.google.com/github/diesellin/vocabuddy-group-15/blob/main/VocaBuddy.ipynb)
 
 ## 程式執行方式
 1. 點擊上方的「Open In Colab」徽章連結，開啟專案筆記本。
